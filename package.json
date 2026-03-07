@@ -1,13 +1,20 @@
 {
   "name": "qa-faker-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight test data factory for QA Engineers and Software Engineers based on @faker-js/faker",
   "main": "index.js",
   "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["faker", "qa", "test-data", "mock", "factory", "automation"],
+  "keywords": [
+    "faker",
+    "qa",
+    "test-data",
+    "mock",
+    "factory",
+    "automation"
+  ],
   "author": "Patrick Azu <azupatrick0@gmail.com>",
   "license": "MIT",
   "dependencies": {
