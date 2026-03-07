@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A lightweight test data factory for QA Engineers and Software Engineers based on @faker-js/faker",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "jest"
   },
