@@ -4,6 +4,8 @@
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Test](https://github.com/azupatrick0/qa-faker-factory/actions/workflows/ci.yml/badge.svg)](https://github.com/azupatrick0/qa-faker-factory/actions/workflows/ci.yml)
 
+⭐ If this project helps your test automation workflow, please consider giving it a star! ⭐
+
 A comprehensive, lightweight test data factory generating realistic fake data for Quality Assurance (QA) and testing workflows.  
 Built on [faker-js/faker](https://github.com/faker-js/faker) to produce diverse domain-specific mock data objects for rapid testing and prototyping.
 
@@ -319,3 +321,12 @@ Please make sure your code follows the existing style and includes relevant test
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 You are free to use, modify, and distribute this software as permitted under the terms of the license.
+
+---
+## 📎 Links
+
+GitHub: https://github.com/azupatrick0/qa-faker-factory
+
+npm: https://www.npmjs.com/package/qa-faker-factory
+
+Issues: https://github.com/azupatrick0/qa-faker-factory/issues
