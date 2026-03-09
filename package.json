@@ -1,6 +1,6 @@
 {
   "name": "qa-faker-factory",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight test data factory for QA Engineers and Software Engineers based on @faker-js/faker",
   "main": "index.js",
   "types": "index.d.ts",
